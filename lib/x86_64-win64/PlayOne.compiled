@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\lazarus\fpc\3.0.0\bin\x86_64-win64\fpc.exe" Date="1213098656"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\Mitchell\Desktop\Pascal Playground\Playground Experience One\StartProgramming-Book\lib\x86_64-win64&quot; &quot;-FuD:\Mitchell\Desktop\Pascal Playground\Playground Experience One\StartProgramming-Book\&quot; &quot;-FUD:\Mitchell\Desktop\Pascal Playground\Playground Experience One\StartProgramming-Book\lib\x86_64-win64\&quot; PlayOne.lpr"/>
+</CONFIG>
